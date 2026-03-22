@@ -1,0 +1,8 @@
+[project]
+name = "2-kr"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "itsdangerous>=2.2.0",
+]
